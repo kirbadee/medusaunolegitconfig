@@ -1,0 +1,2 @@
+# medusaunolegitconfig
+my legit config

@@ -1,0 +1,479 @@
+{
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Attachements": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Desync": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Alpha": 1.0,
+          "Color": "#b742c3",
+          "Enabled": true,
+          "Material": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Ragdolls": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "Draw legitbot fov": {
+    "Alpha": 0.25,
+    "Color": "#ffffff"
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Enabled": true,
+        "Health Bar": {
+          "Enabled": true
+        },
+        "Name": {
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Force baim": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Legitbot": [
+    {
+      "Enabled": true,
+      "Fov": 3.02,
+      "Hitboxes": 31,
+      "Scoped only": false,
+      "Smooth": 20.44
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Enabled": true,
+      "Fov": 0.8,
+      "Hitboxes": 31,
+      "Scoped only": false,
+      "Silent": true
+    },
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Legitbot Key": {
+    "Key": "MOUSE1",
+    "Key mode": 2
+  },
+  "Min damage override Key": {
+    "Key": "NONE",
+    "Key mode": 0
+  },
+  "Misc": {
+    "Aspect Ratio": 1.41,
+    "Auto pixel surf": true,
+    "Bomb timer": {
+      "Enabled": true
+    },
+    "Bunny hop": true,
+    "Fake duck key": {
+      "Key": "LALT",
+      "Key mode": 2
+    },
+    "Gravity force": 0,
+    "Grenade predict": true,
+    "Inventory Unlocker": true,
+    "Jump stats": {
+      "Enabled": true,
+      "Show fails": false,
+      "Simplify naming": true
+    },
+    "Keybind list": {
+      "Pos": {
+        "X": 1174.0,
+        "Y": 596.0
+      }
+    },
+    "Keyboard display": {
+      "Enabled": true
+    },
+    "Purchase List": {
+      "Pos": {
+        "X": 338.0,
+        "Y": 69.0
+      }
+    },
+    "Radar hack": true,
+    "Reveal ranks": true,
+    "Reveal suspect": true,
+    "Slowwalk key": {
+      "Key": "LSHIFT",
+      "Key mode": 2
+    },
+    "Spectator list": {
+      "Pos": {
+        "X": 338.0,
+        "Y": 277.0
+      }
+    }
+  },
+  "Rage Anti aim": {
+    "At targets": true,
+    "Freestand": true,
+    "Jitter Range": 37,
+    "Manual backward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual forward Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual left Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Manual right Key": {
+      "Key": "NONE",
+      "Key mode": 0
+    },
+    "Pitch": 1,
+    "Yaw add": 14,
+    "Yaw base": 2,
+    "Yaw modifier": 1
+  },
+  "Ragebot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Ragebot Key": {
+    "Key": "MOUSE1",
+    "Key mode": 0
+  },
+  "Skin changer": [
+    {
+      "Definition index": 42,
+      "Definition override": 507,
+      "Enabled": true,
+      "Paint Kit": 419
+    },
+    {
+      "Definition index": 5028,
+      "Paint Kit": 10008
+    },
+    {
+      "Definition index": 7,
+      "Enabled": true,
+      "Paint Kit": 639,
+      "Stickers": [
+        {
+          "Kit": 37
+        },
+        {
+          "Kit": 37
+        },
+        {
+          "Kit": 37
+        },
+        {
+          "Kit": 37
+        },
+        {
+          "Kit": 37
+        }
+      ]
+    },
+    {},
+    {
+      "Definition index": 9,
+      "Enabled": true,
+      "Paint Kit": 344
+    },
+    {},
+    {
+      "Definition index": 1,
+      "Enabled": true,
+      "Paint Kit": 37
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Definition index": 60,
+      "Enabled": true,
+      "Paint Kit": 984
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Triggerbot": [
+    {
+      "Hitboxes": 31
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Hitboxes": 31
+    },
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Triggerbot Key": {
+    "Key": "MOUSE4",
+    "Key mode": 0
+  },
+  "Visuals": {
+    "Fog options": {
+      "Density": 0.451,
+      "End": 951.96,
+      "Start": 453.74
+    },
+    "Map color": {
+      "Color": [
+        0.29411766,
+        0.19607845,
+        0.19607845
+      ]
+    },
+    "Skybox": 24,
+    "Skybox Color": {
+      "Color": [
+        0.2901961,
+        0.20000002,
+        1.0
+      ],
+      "Enabled": true
+    },
+    "Thirdperson": true,
+    "Thirdperson distance": 106,
+    "Thirdperson key": {
+      "Key": "MOUSE3",
+      "Key mode": 3
+    },
+    "Viewmodel": {
+      "Enabled": true,
+      "Fov": 10
+    }
+  }
+}
